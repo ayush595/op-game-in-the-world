@@ -1,0 +1,57 @@
+#games_name
+{
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100% !important;
+}
+#instruct
+{
+    color: black;
+    background-color: lightskyblue;
+    float: right;
+    font-size: xx-large;
+}
+body
+{
+    text-align: center;
+    background-image: url("background.jpg");
+
+}
+#main_mario
+{
+    width: 100%;
+}
+#instruction_images
+{
+    display: inline-block;
+    width: 48%;
+
+}
+.modal-dialog
+{
+width: 90%;
+}
+#sourcec
+{
+position: fixed;
+bottom: 0;
+color: darkblue;
+font-weight: 900;
+text-align: center;
+width: 100%;
+margin-top: 20px;
+background-color: white;
+}
+#game-console
+{
+    margin-bottom: 20px;
+}
+video
+{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+
+}
